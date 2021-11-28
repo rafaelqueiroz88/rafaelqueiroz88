@@ -3,7 +3,7 @@
 ### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 4 gatos 🐱🙀😹🙀
 - 🏡 Atualmente trabalhando em casa
 - 🌳 Interessado em aprender mais
-- 🧪 Aprimorando o testes automatizados
+- 🧪 Aprimorando os testes automatizados
 - 🧭 Explorando um pouco mais os recursos do Heroku e AWS
 - 🍁 Pensando em fugir para o Canadá 😆
 - 👥 Elaborando metas para 2022
