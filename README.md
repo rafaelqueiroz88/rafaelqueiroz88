@@ -1,18 +1,18 @@
 # Saudações ✋
 
 ### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 4 gatos 🐱🙀😹🙀
-- 🏡 Atualmente trabalhando em casa
-- 🌳 Interessado em aprender mais
-- 🧪 Aprimorando os testes automatizados
-- 🧭 Explorando um pouco mais os recursos do Heroku e AWS
+- 🏡 Atualmente trabalhando em casa, mas caso queira passar pra um cafézinho, basta vir a Guaratinguetá-SP
+- 🌳 Sempre aprendendo algo novo
+- 🧪 Voltando a estudar Dart & Flutter
+- 🧭 Explorando um pouco mais os recursos da AWS e do Heroku
 - 🍁 Pensando em fugir para o Canadá 😆
-- 👥 Elaborando metas para 2022
-- ✨ Um fato divertido sobre mim: Coloco o fone de ouvido mesmo sem ouvir nada para minha esposa pensar que estou ocupado 😆
+- 👥 Elaborando metas para 2023
+- ✨ Um fato divertido sobre mim: Aprendendo espanhol de tanto ouvir as musicas da Shakira 😆
 
 <br /><br />
 
-## Filosofia
->## Com grandes poderes...vem grandes Bugs
+## Momento Filosofia
+>## Quando escrevemos esse código, eu e Deus sabiamos o que estava acontecendo... Hoje só Deus sabe
 
 <br /><br />
 ## Alguns meios de conexão com a minha pessoinha
@@ -21,7 +21,7 @@
 * ![Markdown Facebook](facebook.png) [Facebook](https://www.facebook.com/rafael.queiroz.castro/)
 * ![Markdown Whatsapp](whatsapp.png) +55 (11) 94033-1062
 * ![Markdown Gmail](gmail.png) rafael.qdc88@gmail.com
-* 🏗️ Blog Pessoal em andamento (link em breve)
+* 🏗️ Blog Pessoal em andamento (link não tão em breve hehehe)
 
 <br /><br />
 
