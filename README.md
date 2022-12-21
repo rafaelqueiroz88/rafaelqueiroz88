@@ -1,6 +1,6 @@
 # Saudações ✋
 
-### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 4 gatos 🐱🙀😹🙀
+### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 6 gatos 🐱🙀😹🙀🙀🙀
 - 🏡 Atualmente trabalhando em casa, mas caso queira passar pra um cafézinho, basta vir a Guaratinguetá-SP
 - 🌳 Sempre aprendendo algo novo
 - 🧪 Voltando a estudar Dart & Flutter
