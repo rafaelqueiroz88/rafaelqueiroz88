@@ -1,13 +1,13 @@
 # Saudações ✋
 
-### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 6 gatos 🐱🙀😹🙀🙀🙀
+### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 7 gatos 🐱🙀😹🙀🙀🙀😹 (mas não tenho certeza se o Ori é um gato ou um cachorro)
 - 🏡 Atualmente trabalhando em casa, mas caso queira passar pra um cafézinho, basta vir a Guaratinguetá-SP
 - 🌳 Sempre aprendendo algo novo
 - 🧪 Voltando a estudar Dart & Flutter
 - 🧭 Explorando um pouco mais os recursos da AWS e do Heroku
 - 🍁 Pensando em fugir para o Canadá 😆
-- 👥 Elaborando metas para 2023
-- ✨ Um fato divertido sobre mim: Aprendendo espanhol de tanto ouvir as musicas da Shakira 😆
+- 👥 Elaborando metas para 2024
+- ✨ Voltei pra Fatec. Com isso assumo que gosto de sofrer 😆
 
 <br /><br />
 
@@ -19,9 +19,9 @@
 
 * ![Markdown Linkedin](linkedin.png) [LinkedIn](https://www.linkedin.com/in/rafael-queiroz-0074a4139/)
 * ![Markdown Facebook](facebook.png) [Facebook](https://www.facebook.com/rafael.queiroz.castro/)
-* ![Markdown Whatsapp](whatsapp.png) +55 (11) 94033-1062
+* ![Markdown Whatsapp](whatsapp.png) +55 (12) 98174-8409
 * ![Markdown Gmail](gmail.png) rafael.qdc88@gmail.com
-* 🏗️ Blog Pessoal em andamento (link não tão em breve hehehe)
+* 🏗️ Blog Pessoal em andamento (link quase pronto 👥)
 
 <br /><br />
 
