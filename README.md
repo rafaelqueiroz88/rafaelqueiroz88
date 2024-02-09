@@ -1,13 +1,11 @@
 # Saudações ✋
 
-### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 7 gatos 🐱🙀😹🙀🙀🙀😹 (mas não tenho certeza se o Ori é um gato ou um cachorro)
+### Sou apenas mais um fã de Ruby on Rails e React. Nerd, divertido e papai de 7 gatos 🐱🙀😹🙀🙀🙀😹
 - 🏡 Atualmente trabalhando em casa, mas caso queira passar pra um cafézinho, basta vir a Guaratinguetá-SP
 - 🌳 Sempre aprendendo algo novo
-- 🧪 Voltando a estudar Dart & Flutter
-- 🧭 Explorando um pouco mais os recursos da AWS e do Heroku
+- 🧭 Explorando um pouco mais os recursos da AWS
 - 🍁 Pensando em fugir para o Canadá 😆
-- 👥 Elaborando metas para 2024
-- ✨ Voltei pra Fatec. Com isso assumo que gosto de sofrer 😆
+
 
 <br /><br />
 
